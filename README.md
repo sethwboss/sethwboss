@@ -40,7 +40,7 @@ I'm a software development student at **Brigham Young University - Idaho** speci
 
 ## Projects
 
-### 🥗 [Nutritiency](https://github.com/sethwboss)
+### 🥗 [Nutriciency](https://github.com/sethwboss)
 > Cross-platform mobile and web application focused on nutrition tracking, dietary data visualization, and simplified daily logging.
 - **Tech:** Front-End Web / Mobile, JavaScript / TypeScript, APIs
 - **Highlights:** Clean dashboard views, responsive charting, and mobile-friendly input workflows.
