@@ -12,6 +12,7 @@ I am a Software Development / Computer Science student at **Brigham Young Univer
 
 - 🔭 **Currently working on:** Full-stack and mobile/web application projects.
 - 🌱 **Learning & Exploring:** Modern software architecture, cloud platforms, and automated workflows.
+- 🎯 **Goals:** Contributing to impactful software projects and preparing for software engineering roles.
 - 💬 **Ask me about:** C#, Python, JavaScript/TypeScript, and web technologies.
 - ⚡ **Fun fact:** Passionate about clean code, continuous learning, and collaborative problem-solving.
 
@@ -63,3 +64,13 @@ I am a Software Development / Computer Science student at **Brigham Young Univer
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sethwboss&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sethwboss)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethwboss@gmail.com)
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
