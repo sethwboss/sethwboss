@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../BossKeys"
+		},
+		{
+			"path": "../Dump-backups-for-mySQL"
+		},
+		{
+			"path": "../family-history"
+		},
+		{
+			"path": "../Games"
+		},
+		{
+			"path": "../josh-summit-sweep"
+		},
+		{
+			"path": "../Nutritiency_All_Repos"
+		},
+		{
+			"path": "../Portfolio Annie"
+		},
+		{
+			"path": "../Portfolio Seth"
+		},
+		{
+			"path": "../Tasker"
+		}
+	],
+	"settings": {}
+}
